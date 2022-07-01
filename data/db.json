@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 4,
+      "title": "My Fourth Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 5,
+      "title": "my fifth post is edited",
+      "datetime": "June 19 2022 11:44:49 PM",
+      "body": "hey there this is my fifth post."
+    },
+    {
+      "id": 6,
+      "title": "6th post of the edit",
+      "datetime": "June 19 2022 11:52:19 PM",
+      "body": "i have edited this post with the edit button."
+    },
+    {
+      "id": 7,
+      "title": " this is the 7th post",
+      "datetime": "June 23 2022 10:34:48 AM",
+      "body": "this post is made with react blog app.edited it"
+    },
+    {
+      "id": 8,
+      "title": "my 8th post",
+      "datetime": "June 30 2022 7:25:47 PM",
+      "body": "after useContext this 8 th post is set after refactoring app.js and agin taking back all the components.\n"
+    }
+  ]
+}
